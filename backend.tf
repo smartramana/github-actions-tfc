@@ -1,6 +1,6 @@
 terraform {
   cloud {
-    organization = "tfc4b-peyton"
+    organization = "smartramana"
 
     workspaces {
       name = "gh-actions-demo"
